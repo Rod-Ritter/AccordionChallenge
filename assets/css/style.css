@@ -71,7 +71,6 @@ main .allFaq{
     display: flex;
     align-items: center;
     justify-content: center;
-   
 }
 
 main .faq{
@@ -79,15 +78,18 @@ main .faq{
     height: 75vh;
     width: 85%;
     border-radius: 20px;
+    margin-top: 4rem;
    
 }
 main .mainImg{
     background-image: url(../img/illustration-woman-online-mobile.svg);
     background-position: center;
     background-size: cover;
-    width: 30%;
-    height: 30%;
-    top: 0;
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: 0; 
+    
 }
 
 
